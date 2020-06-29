@@ -1,3 +1,16 @@
+### Portland Bulk Inventory
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrZqjm0u4KMPpsJh?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+### Submit an Item
+
+If there is an item you don't see on the list that you would like to add to help others find it please fill out the form below.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrrpjSgpgGrehNKk?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stivona/ZeroWastePDX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
