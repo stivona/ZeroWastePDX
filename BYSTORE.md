@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "By Store"
-permalink: https://stivona.github.io/ZeroWastePDX/bystore
+permalink: https://stivona.github.io/ZeroWastePDX/BYSTORE
 ---
 
 WINCO
