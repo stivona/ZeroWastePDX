@@ -1,7 +1,3 @@
-layout: page
-title: "HOME"
-permalink: /https://stivona.github.io/ZeroWastePDX/
-
 ### Portland Bulk Inventory
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrZqjm0u4KMPpsJh?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
