@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "By Store"
 layout: default
+title: "By Store"
 permalink: /BYSTORE/
 ---
 
