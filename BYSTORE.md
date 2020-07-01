@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "By Store"
-permalink: /ZeroWastePDX/BYSTORE/
+permalink: /BYSTORE/
 ---
 
 WINCO
