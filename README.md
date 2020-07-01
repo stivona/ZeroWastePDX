@@ -8,6 +8,8 @@ This is a community generated inventory of the bulk bins of Portand. It is by no
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrZqjm0u4KMPpsJh?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+Is there an item with missing or incorrect information? Click [here](https://airtable.com/shrxQLsOwC4kE1uSb) to submit a correction. 
+
 ### Submit an Item
 
 If there is an item you don't see on the list that you would like to add to help others find it please fill out the form below.
