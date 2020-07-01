@@ -7,6 +7,6 @@ This website is a home for crowdsourced resources to help the Portland community
 In this site you will find the following tools:
 - **Search the Bulk Bins-** A searchable database of (most) of the bulk bins in Portland
 - **DIY-** Crowdsourced list of handy DIY recipes
-- **Resources-** Crowdsourced list of handy resources
+- **Resources-** Crowdsourced list of helpful resources
 
 
