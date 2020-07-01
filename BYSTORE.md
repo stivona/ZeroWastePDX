@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "By Store"
-theme: jekyll-theme-cayman
+layout: default
 permalink: /BYSTORE/
 ---
 
