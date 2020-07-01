@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "By Store"
+theme: jekyll-theme-cayman
 permalink: /BYSTORE/
 ---
 
