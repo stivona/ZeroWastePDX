@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Resources"
+permalink: /RESOURCES/
+---
+
 ## Resources
 
 Below is a list of resources for the Portland community.
