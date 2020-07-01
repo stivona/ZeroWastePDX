@@ -10,10 +10,6 @@ Never shopped in bulk before? It can be a little intimidating. Check out this [a
 
 The directories below are not managed by the stores themselves so they may not be 100% accurate. If you find an item that is missing or needs a correction please submit a form. 
 
-## Map of locations for bulk shopping in Portland
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jiE9s6NbuVwlOkVnwxgtDlHk54B3NJ36" width="640" height="480"></iframe>
-
 ## Portland Bulk Inventory
 
 This is a community generated inventory of the bulk bins of Portand. It is by no means exhaustive. Help us out by adding new items you see using the form below. You can browse through each store or use the search function to find exactly the item you are looking for. 
@@ -23,9 +19,11 @@ This is a community generated inventory of the bulk bins of Portand. It is by no
 Is there an item with missing or incorrect information? Click [here](https://airtable.com/shrxQLsOwC4kE1uSb) to submit a correction. 
 
 ### Submit an Item
-
 If there is an item you don't see on the list that you would like to add to help others find it please fill out the form below.
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrrpjSgpgGrehNKk?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Map of locations for bulk shopping in Portland
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jiE9s6NbuVwlOkVnwxgtDlHk54B3NJ36" width="640" height="480"></iframe>
 
 # Filtered by Store
 ### Winco
