@@ -3,7 +3,7 @@ layout: default
 title: "ABOUT"
 permalink: /ABOUT/
 ---
-<p style="text-align:center">
+<p style="text-align:left">
     <img src="/ZeroWastePDX/assets/DSC_0542-min.png" alt="Shannon Image" style="max-width: 400px;">
 </p>
 
