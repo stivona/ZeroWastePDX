@@ -1,3 +1,8 @@
+---
+layout: default
+title: "DIY"
+permalink: /DIY/
+---
 ### DIY
 
 Below is a collection of DIY recipes made from things you can find in the bulk bins in Portland. If you submit a new DIY please be sure to credit the original creator if applicable.
