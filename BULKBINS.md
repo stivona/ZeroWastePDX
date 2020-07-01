@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Search the Bulk Bins"
-permalink: /BULKBIN/
+permalink: /BULKBINS/
 ---
 
 ## Bulk Shopping 101
