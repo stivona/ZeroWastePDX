@@ -5,8 +5,7 @@ permalink: /BYSTORE/
 ---
 ## Bulk Shopping 101
 
-Never shopped in bulk before? It can be a little intimidating. Check out this awesome article written by Portland Zero Waste hero Chloé Lepeltier.
-https://consciousbychloe.com/2016/05/04/shopping-in-bulk-101/
+Never shopped in bulk before? It can be a little intimidating. Check out this [awesome article](https://consciousbychloe.com/2016/05/04/shopping-in-bulk-101/) written by Portland Zero Waste hero Chloé Lepeltier.
 
 The directories below are not managed by the stores themselves so they may not be 100% accurate. If you find an item that is missing or needs a correction please submit a form. 
 
