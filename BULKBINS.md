@@ -33,7 +33,7 @@ If there is an item you don't see on the list that you would like to add to help
 <details>
 <summary> 
 
-<h2>Winco</h2>
+<h3>Winco</h3>
 
 </summary>
   
