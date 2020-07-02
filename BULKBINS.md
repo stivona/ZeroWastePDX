@@ -33,7 +33,7 @@ If there is an item you don't see on the list that you would like to add to help
 <details>
 <summary> 
 
-[Winco](https://www.google.com/maps/search/winco/@45.5030786,-122.8522916,10z){:target="_blank"}
+Winco
 
 </summary>
   
