@@ -68,3 +68,17 @@ If there is an item you don't see on the list that you would like to add to help
 
 </details>
 
+<details>
+<summary>
+
+### New Seasons
+
+</summary>
+  
+**New Seasons bulk 101:**
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrCUneU3pMKHmEEN?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+</details>
+
+
