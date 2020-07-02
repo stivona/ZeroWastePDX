@@ -29,7 +29,7 @@ If there is an item you don't see on the list that you would like to add to help
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jiE9s6NbuVwlOkVnwxgtDlHk54B3NJ36" width="640" height="480"></iframe>
 
 <a name="store"></a>
-# Filtered by Store
+## Filtered by Store
 ### Winco
 **Winco bulk 101:** Winco does not do tare weights, meaning they cannot remove the weight of your container. My best recommendation is to wash and reuse the provided plastic bags or bring a lightweight cloth bag. PDX Zero Wasters have mixed results using this method, some Winco locations do not approve of bringing your own bag whereas others seem to be fine with it. Please respect what ever you are asked to do by an employee. 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrvrQrRenmRf8KLt?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
