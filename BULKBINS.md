@@ -62,8 +62,9 @@ If there is an item you don't see on the list that you would like to add to help
 
 </summary>
   
-**People's Food Co-op bulk 101:** Feel free to bring your own container. There is a scale in the bulk section. Be sure to weigh your container BEFORE you fill it and write the weight on it. Then fill 'er up and be sure to write the PLU number on your container so the cashier knows what you've got.
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrBxaDtX01XpwM4H?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+**Alberta Food Co-op bulk 101:**
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrkoSL79R04icC8I?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 </details>
 
