@@ -3,7 +3,7 @@ layout: default
 title: "Search the Bulk Bins"
 permalink: /BULKBINS/
 ---
-[Map](#map)
+[## Map](#map)
 
 ## Bulk Shopping 101
 
@@ -23,7 +23,7 @@ Is there an item with missing or incorrect information? Click [here](https://air
 If there is an item you don't see on the list that you would like to add to help others find it please fill out the form below.
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrrpjSgpgGrehNKk?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-<a name="map"></a>Map
+<a name="map"></a>
 ## Map of locations for bulk shopping in Portland
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jiE9s6NbuVwlOkVnwxgtDlHk54B3NJ36" width="640" height="480"></iframe>
 
