@@ -3,7 +3,7 @@ layout: default
 title: "Search the Bulk Bins"
 permalink: /BULKBINS/
 ---
-Quick Links: [Inventory](#inventory)[Map](#map)[Filter by Store](#store)
+Quick Links: [Inventory](#inventory)   |    [Map](#map)  |     [Filter by Store](#store)
 
 ## Bulk Shopping 101
 
