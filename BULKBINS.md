@@ -41,11 +41,7 @@ If there is an item you don't see on the list that you would like to add to help
 
 
 <details>
-<summary>
-
-### People's Food Co-op
-
-</summary>
+<summary> <h3 style="display: inline-block;">People's Food Co-op</h3> </summary>
   
 <b>People's Food Co-op bulk 101:</b> Feel free to bring your own container. There is a scale in the bulk section. Be sure to weigh your container BEFORE you fill it and write the weight on it. Then fill 'er up and be sure to write the PLU number on your container so the cashier knows what you've got.
 
@@ -54,11 +50,7 @@ If there is an item you don't see on the list that you would like to add to help
 </details>
 
 <details>
-<summary>
-
-### Alberta Food Co-op
-
-</summary>
+<summary><h3 style="display: inline-block;">Alberta Food Co-op </h3> </summary>
   
 <b>Alberta Food Co-op bulk 101:</b>
 
@@ -67,11 +59,7 @@ If there is an item you don't see on the list that you would like to add to help
 </details>
 
 <details>
-<summary>
-
-### New Seasons
-
-</summary>
+<summary> <h3 style="display: inline-block;">New Seasons</h3> </summary>
   
 <b>New Seasons bulk 101:</b>
 
