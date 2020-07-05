@@ -50,7 +50,7 @@ If there is an item you don't see on the list that you would like to add to help
 </details>
 
 <details>
-<summary><h3 style="display: inline-block;">Alberta Food Co-op</h3> </summary>
+<summary> <h3 style="display: inline-block;">Alberta Food Co-op</h3> </summary>
   
 <b>Alberta Food Co-op bulk 101:</b>
 
