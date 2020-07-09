@@ -11,6 +11,10 @@ I love sustainability and I love data.
 I had been compiling this inventory as a tool on my zero waste journey. I figured others may find it helpful too. 
 If you have any corrections, comments, or questions feel free to drop me a note using [this form](https://airtable.com/shrxQLsOwC4kE1uSb){:target="_blank"}. 
 
+<a href="(https://www.instagram.com/stivona/">
+   <img alt="Instagram" src="/ZeroWastePDX/assets/instagram-logo-png-transparent-0.png" width=150" height="70">
+</a>
+
 
 [<img src="/ZeroWastePDX/assets/instagram-logo-png-transparent-0.png" alt="Instagram" style="max-width: 35px;">](https://www.instagram.com/stivona/)  {:target="_blank"} [<img src="/ZeroWastePDX/assets/linkedin-button-png-2.png" alt="LinkedIn" style="max-width: 50px;">](https://www.linkedin.com/in/shannon-tivona/){:target="_blank"}
 
