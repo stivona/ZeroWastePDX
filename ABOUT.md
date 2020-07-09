@@ -13,3 +13,11 @@ If you have any corrections, comments, or questions feel free to drop me a note 
 
 
 ![<img src="/ZeroWastePDX/assets/instagram-logo-png-transparent-0.png" alt="Instagram" style="max-width: 35px;">](https://www.instagram.com/stivona/)  {:target="_blank"} ![<img src="/ZeroWastePDX/assets/linkedin-button-png-2.png" alt="LinkedIn" style="max-width: 50px;">](https://www.linkedin.com/in/shannon-tivona/){:target="_blank"}
+
+   <body>
+      The following image works as a link:<br>
+      <a href="(https://www.instagram.com/stivona/">
+         <img alt="Instagram" src="/ZeroWastePDX/assets/instagram-logo-png-transparent-0.png"
+         width=150" height="70">
+      </a>
+   </body>
