@@ -11,6 +11,4 @@ In this site you will find the following tools:
 
 ## TEST
 
-[**Test**](<script src="/test.js"></script>)
-
-Poop
+[**Test**](test.js)
