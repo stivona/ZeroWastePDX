@@ -15,6 +15,8 @@ The directories below are not managed by the stores themselves so they may not b
 ## Portland Bulk Inventory
 This is a community generated inventory of the bulk bins of Portand. It is by no means exhaustive. Help us out by adding new items you see using the form below. You can browse through each store or use the search function to find exactly the item you are looking for. 
 
+COVID-19 Disclaimer: Many of the bulk bins in Portland have been closed or temporarily removed due to COVID-19. Some of the items on this list may be temporarily unavailable. 
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrZqjm0u4KMPpsJh?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Is there an item with missing or incorrect information? Click [here](https://airtable.com/shrxQLsOwC4kE1uSb){:target="_blank"} to submit a correction. 
