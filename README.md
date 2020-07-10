@@ -11,8 +11,4 @@ In this site you will find the following tools:
 
 ## TEST
 
-<script type="text/javascript" src="./test.js"></script>
-
-<button onClick="runTest()">run Test</button>
-
-[**Test**](test.js)
+[**Test**](./test.js)
