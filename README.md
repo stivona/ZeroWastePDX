@@ -12,3 +12,4 @@ In this site you will find the following tools:
 ## TEST
 
 [**Test**](test.js)
+[**Test 2**](./test.js)
