@@ -11,4 +11,5 @@ In this site you will find the following tools:
 
 ## TEST
 
-[**Test**](./test.js)
+[**Test**](<script src="/test.js"></script>)
+
