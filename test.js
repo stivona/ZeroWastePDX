@@ -18,6 +18,3 @@ base('Bulk Inventory- Portland, OR').select({
     if (err) { console.error(err); return; }
 });
 </script>
-
-
-Poop
