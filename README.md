@@ -14,6 +14,7 @@ In this site you will find the following tools:
 [**Test**](test.js)
 [**Test 2**](./test.js)
 
+<button type="button">
 <script type="text/javascript">
 var Airtable = require('airtable');
 var base = new Airtable({apiKey: 'keyjHtQ8uncyIrJ1A'}).base('appffTsmWo1LKPmRg');
@@ -34,3 +35,4 @@ base('Bulk Inventory- Portland, OR').select({
     if (err) { console.error(err); return; }
 });
 </script>
+</button>
