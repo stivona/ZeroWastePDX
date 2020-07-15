@@ -37,6 +37,7 @@ base('Bulk Inventory- Portland, OR').select({
 </script>
 </button>
 
-<script>
+<script type="text/javascript">
 <a onclick="alert(‘Poop’)">Click For Poop</a>
 </script>
+
